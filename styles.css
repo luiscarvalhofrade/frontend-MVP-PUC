@@ -5,11 +5,11 @@ li {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: rgb(225, 222, 199);
+    background-color: rgb(200, 222, 199);
 }
 
 header {
-    background-color: rgb(225, 222, 199);
+    background-color: rgb(200, 222, 199);
     text-align: center;
     position: relative;
     width: 100%;
@@ -18,7 +18,7 @@ header {
 .title {
     color: white;
     width: 100%;
-    background-color: rgb(35, 32, 24);
+    background-color: rgb(31, 67, 195);
     display: inline-block;
     padding: 2px 0px;
     position: sticky;
@@ -36,7 +36,7 @@ header {
 }
 
 .newItem {
-    background-color: rgb(225, 222, 199);
+    background-color: rgb(200, 222, 199);
     padding: 30px 40px;
     color: white;
     display: flex;
@@ -51,7 +51,7 @@ header {
 
 #newInput {
     margin: 0;
-    border: 1px solid rgb(35, 32, 24);
+    border: 1px solid rgb(31, 67, 195);
     width: 25%;
     padding: 10px;
     font-size: 16px;
@@ -59,7 +59,7 @@ header {
 
 #newQuantity {
     margin: 0;
-    border: 1px solid rgb(35, 32, 24);
+    border: 1px solid rgb(31, 67, 195);
     width: 8%;
     padding: 10px;
     font-size: 16px;
@@ -67,7 +67,7 @@ header {
 
 #newPrice {
     margin: 0;
-    border: 1px solid rgb(35, 32, 24);
+    border: 1px solid rgb(31, 67, 195);
     width: 5%;
     padding: 10px;
     font-size: 16px;
@@ -76,7 +76,7 @@ header {
 
 .addBtn {
     padding: 9px 10px;
-    background-color: rgb(35, 32, 24);
+    background-color: rgb(31, 67, 195);
     color: white;
     text-align: center;
     font-size: 16px;
@@ -90,7 +90,7 @@ header {
     color: white;
 }
 
-.items {
+.aluno {
     margin: 0;
     padding: 0;
     display: flex;
@@ -105,7 +105,7 @@ header {
 table,
 th,
 td {
-    border: 1px solid black;
+    border: 1px solid rgb(31, 67, 195);
     border-collapse: collapse;
     cursor: pointer;
     position: relative;
